@@ -7,7 +7,7 @@ const FindId_success = (props) => {
     <section className={styles.successWrap}>
       <p>조성진님의 {props.mainText}는</p>
       <p>
-        <span>jsj3063</span> 입니다.
+        <span>jsj3063dd</span> 입니다.
       </p>
       <div>
         <Link to={{ pathname: `/login` }}>로그인 하러가기</Link>
